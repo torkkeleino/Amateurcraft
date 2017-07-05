@@ -1,2 +1,0 @@
-# Amateurcraft
-Minecraft server developement
